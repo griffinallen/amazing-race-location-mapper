@@ -1,1 +1,1 @@
-# AmazingRaceLocationMapper
+# amazing-race-location-mapper
